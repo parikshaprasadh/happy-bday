@@ -151,16 +151,16 @@ img{
 }
 .img1 h1{
   align: center;
-  margin-top: 10rem;
+  margin-top: 15rem;
   font-size: 3rem;
-  color: lightpink;
+  color: plum;
   text-shadow: 1rem;
 }
 .img1 p{
   font-size: 15px;
   align: center;
   margin-top: 3rem;
-  color: lightpink;
+  color: plum;
   text-shadow: 1rem;
 }
 .vid{
@@ -170,7 +170,7 @@ img{
   margin-top: 5rem;
 }
 .vid2{
-  margin-top: -3rem;
+  margin-top: -10rem;
   transform: rotate(90deg);
   transform-origin: center center;
 }
