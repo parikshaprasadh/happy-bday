@@ -130,6 +130,7 @@ img{
   background-position: center;
   background-image: url("attachments/bg-img.jpg");
   z-index: 1;
+  transform: scale(1.5);
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
