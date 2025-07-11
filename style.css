@@ -139,7 +139,7 @@ img{
   position: absolute;
   top: 0; left: 0;
   background-position: center;
-  background-image: url("attachments/ink");
+  background-image: url("attachments/ink.jpg");
   mix-blend-mode: screen;
   z-index: 2;
   background-size: cover;
