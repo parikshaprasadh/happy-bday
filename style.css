@@ -128,9 +128,8 @@ img{
   position: absolute;
   top: 0; left: 0;
   background-position: center;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Aabgu5ecWEDoWlYOtGrlhyZriRePeUOJ5Q&s");
+  background-image: url("attachments/bg-img.jpg");
   z-index: 1;
-  background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
@@ -139,7 +138,7 @@ img{
   position: absolute;
   top: 0; left: 0;
   background-position: center;
-  background-image: url("https://img.freepik.com/premium-vector/black-ink-drop-white-background-round-ragged-inkblot-slowly-spreads-out-from-center-gradient-watercolor-transition-from-dark-light-blob-vector-illustration_501569-83.jpg");
+  background-image: url("attachments/ink.jpg");
   mix-blend-mode: screen;
   z-index: 2;
   background-size: cover;
