@@ -125,7 +125,7 @@ img{
 }
 
 .img1{
-  filter: contrast(250%);
+  filter: contrast(100%);
   position: absolute;
   top: 0; left: 0;
   background-position: center;
@@ -151,7 +151,7 @@ img{
 }
 .img1 h1{
   align: center;
-  margin-top: 8rem;
+  margin-top: 10rem;
   font-size: 3rem;
   color: lightpink;
   text-shadow: 1rem;
@@ -170,6 +170,7 @@ img{
   margin-top: 5rem;
 }
 .vid2{
+  margin-top: -3rem;
   transform: rotate(90deg);
   transform-origin: center center;
 }
