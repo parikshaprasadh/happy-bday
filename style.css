@@ -136,6 +136,7 @@ img{
   height: 100vh;
 }
 .img2{
+  filter: sepia(100%) saturate(500%) hue-rotate(290deg);
   position: absolute;
   top: 0; left: 0;
   background-position: center;
@@ -146,4 +147,17 @@ img{
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
+}
+.img1 h1{
+  align: center;
+  margin-top: 5rem;
+  color: lightpink;
+  text-shadow: 1rem;
+}
+.img1 p{
+  font-size: 2rem;
+  align: center;
+  margin-top: 5rem;
+  color: lightpink;
+  text-shadow: 1rem;
 }
