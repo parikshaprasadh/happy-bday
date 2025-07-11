@@ -125,7 +125,7 @@ img{
 }
 
 .img1{
-  filter: contrast(100%);
+  filter: contrast(250%);
   position: absolute;
   top: 0; left: 0;
   background-position: center;
@@ -152,6 +152,7 @@ img{
 .img1 h1{
   align: center;
   margin-top: 8rem;
+  font-size: 3rem;
   color: lightpink;
   text-shadow: 1rem;
 }
