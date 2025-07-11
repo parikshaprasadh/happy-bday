@@ -137,7 +137,7 @@ img{
 }
 .img2{
   position: absolute;
-  top: 0; left: 0;
+  top: 1; left: 0;
   background-position: center;
   background-image: url("attachments/ink.jpg");
   mix-blend-mode: screen;
