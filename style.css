@@ -169,11 +169,6 @@ img{
 .vid h1{
   margin-top: 5rem;
 }
-.vid2{
-  margin-top: -10rem;
-  transform: rotate(90deg);
-  transform-origin: center center;
-}
 .end{
   margin-top: 5rem;
   position: relative;
