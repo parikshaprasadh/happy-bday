@@ -150,14 +150,14 @@ img{
 }
 .img1 h1{
   align: center;
-  margin-top: 5rem;
+  margin-top: 2rem;
   color: lightpink;
   text-shadow: 1rem;
 }
 .img1 p{
-  font-size: 20px;
+  font-size: 5px;
   align: center;
-  margin-top: 5rem;
+  margin-top: 1rem;
   color: lightpink;
   text-shadow: 1rem;
 }
