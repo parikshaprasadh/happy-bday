@@ -161,3 +161,18 @@ img{
   color: lightpink;
   text-shadow: 1rem;
 }
+.vid{
+  margin-top: 5rem;
+}
+.vid h1{
+  margin-top: 5rem;
+}
+
+.end{
+  margin-top: 5rem;
+  position: relative;
+}
+.end p{
+  color: plum;
+  font-size: 2rem;
+}
