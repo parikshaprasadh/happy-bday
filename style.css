@@ -125,6 +125,7 @@ img{
 }
 
 .img1{
+  filter: contrast(100%);
   position: absolute;
   top: 0; left: 0;
   background-position: center;
@@ -150,14 +151,14 @@ img{
 }
 .img1 h1{
   align: center;
-  margin-top: 2rem;
+  margin-top: 8rem;
   color: lightpink;
   text-shadow: 1rem;
 }
 .img1 p{
-  font-size: 5px;
+  font-size: 15px;
   align: center;
-  margin-top: 1rem;
+  margin-top: 3rem;
   color: lightpink;
   text-shadow: 1rem;
 }
@@ -167,7 +168,10 @@ img{
 .vid h1{
   margin-top: 5rem;
 }
-
+.vid2{
+  transform: rotate(90deg);
+  transform-origin: center center;
+}
 .end{
   margin-top: 5rem;
   position: relative;
