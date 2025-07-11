@@ -1,0 +1,149 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+border: 0;
+overflow: hidden;
+list-style: none;
+appearance: none;
+}
+
+body{
+  font-family: "Schoolbell", cursive;
+  font-style: normal;
+  width: 100vw;
+  height: 100vh;
+  background-color: lavenderblush;
+  background-size: cover;
+  text-align: center;
+}
+
+
+h1{
+font-weight: 800;
+font-size: 4rem;
+color: plum;
+margin-top: 250px;
+}
+
+.start a{
+color: indigo;
+font-family: "Poetsen One", sans-serif;
+font-style: normal;
+background-color: white;
+font-size: 25px;
+padding: 20px;
+border-radius: 50px;
+}
+a:hover{
+text-decoration: underline;
+}
+
+.arrow span{
+padding: 10px;
+background-color: white;
+border-radius: 50px;
+position: absolute;
+bottom: 50px;
+right: 70px;
+z-index: 5;
+}
+
+img{
+  transform: scale(0.5);
+  margin-top: -5rem;
+}
+
+.question{
+    text-align: center;
+    font-size: 5rem;
+    margin-top: -7rem;
+    color: plum;
+}
+.question button{
+    font-size: 2.5rem;
+    position: relative;
+    top: -6rem;
+    font-family: "Poetsen One", sans-serif;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: white;
+    box-align: center
+}
+.question p{
+  font-size: 30px;
+  display: none;
+  position: relative;
+  top: -4rem;
+}
+
+#i1{
+  transform: scale(3);
+  position: relative;
+  top: 7rem;
+  left: 18rem;
+}
+#i2{
+  transform: scale(2);
+  position: relative;
+  top: 30rem;
+  left: 45rem;
+}
+#i3{
+  transform: scale(3);
+  position: relative;
+  top: 30rem;
+  right: 25rem;
+}
+#i4{
+  transform: scale(1);
+  position: relative;
+  top: 15rem;
+  right: 25rem;
+}
+#i5{
+  transform: scale(1);
+  position: relative;
+  top: 15rem;
+  left: 5rem;
+}
+.happy h4{
+  margin-top: 20rem;
+  font-size: 5rem;
+  color: plum;
+}
+.happy h5{
+  margin-top: 1rem;
+  font-size: 2rem;
+  color: plum;
+}
+
+.img1{
+  position: absolute;
+  top: 0; left: 0;
+  background-position: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Aabgu5ecWEDoWlYOtGrlhyZriRePeUOJ5Q&s");
+  z-index: 1;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+.img2{
+  position: absolute;
+  top: 0; left: 0;
+  background-position: center;
+  background-image: url("https://img.freepik.com/premium-vector/black-ink-drop-white-background-round-ragged-inkblot-slowly-spreads-out-from-center-gradient-watercolor-transition-from-dark-light-blob-vector-illustration_501569-83.jpg");
+  mix-blend-mode: screen;
+  z-index: 2;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
